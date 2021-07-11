@@ -1,0 +1,11 @@
+Queue Data Structure
+
+Queue is a linear Data Structure. Queue is a FIFO Data Structure(First In First Out), which means the element that enters first is the one to leave first.
+
+Operations on queue
+Enqueue: Adds an item to the end of the queue.
+Dequeue: Removes an item from the start of the queue.
+Front: Get the front element from the queue
+Rear: Get the last item of the queue.
+
+We will implement queue using Linked List.
