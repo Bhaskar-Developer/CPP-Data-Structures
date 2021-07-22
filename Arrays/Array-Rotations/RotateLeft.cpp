@@ -1,6 +1,6 @@
 /*
 Left Rotation of Array
--We use the Juggling ALgorithm to do the left array rotation
+-We use the Juggling Algorithm to do the left array rotation
 -This is also know as in place rotation
 -Time Complexity: O(n)
 -Space Complexity: O(1)
