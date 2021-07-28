@@ -152,6 +152,4 @@ int main() {
  5.Display queue -> just used to display queue, not important
  6.Destructor for Queue.
  7.Constructor for Queue
-
-Pending: Destructor or Queue
 */
